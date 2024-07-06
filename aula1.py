@@ -5,7 +5,7 @@ para comentar e descrever seu código em mais de uma linha.
 """
 '''
 Também podemos utilizar dessa forma para escrever notas
-explicando o seu código.
+explicando os seus códigos.
 '''
 
 # Permite escrever um comentário
