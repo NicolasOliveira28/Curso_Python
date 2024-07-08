@@ -3,7 +3,7 @@ DocString
 Python = Linguagem de programação
 Tipo de tipagem = Dinâmica / Forte
 str -> string -> texto
-Strings são textos que estão dentro de aspas
+Strings são textos que estão dentro das aspas
 """
 print(1234)
 
