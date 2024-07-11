@@ -15,7 +15,7 @@
 # print(0.0, -1.5)
 
 # A função type mostra o tipo que o Python
-# inferiu ao valor.
+# inferiu aos valores.
 print(type('Nicolas'))
 print(type(0))
 print(type(1.1), type(-1.1), type(0.0))
