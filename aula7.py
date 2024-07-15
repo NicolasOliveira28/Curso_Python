@@ -3,7 +3,7 @@
 # números e underline _.
 # O sinal de = é o operador de atribuição. Ele é usado para
 # atribuir um valor a um nome (variável).
-# Uso: nome_variavel = expressão
+# Uso: nome_variavel = expressão !
 
 # nome_completo = 'Luiz Otávio Miranda'
 # soma_dois_mais_dois = 2 + 2
