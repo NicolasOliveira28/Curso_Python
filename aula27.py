@@ -1,6 +1,6 @@
 RADAR_1 = 60  # velocidade máxima do radar 1
 LOCAL_1 = 100  # local onde o radar 1 está
-RADAR_RANGE = 1  # A distância onde os radares pega
+RADAR_RANGE = 1  # A distância onde os radares pegam
 
 vel_carro_pass_radar_1 = velocidade > RADAR_1
 carro_passou_radar_1 = local_carro >= (LOCAL_1 - RADAR_RANGE) and \
