@@ -1,7 +1,7 @@
 """
 Introdução ao try/except
 try -> tentar executar o código
-except -> ocorreu algum erro ao tentar executar
+except -> ocorreu alguns erro ao tentar executar
 """
 numero_str = input(
     'Vou dobrar o número que vc digitar: '
