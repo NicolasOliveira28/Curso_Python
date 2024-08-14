@@ -4,7 +4,7 @@ try -> tentar executar o código
 except -> ocorreram alguns erro ao tentar executar
 """
 numero_str = input(
-    'Vou dobrar o número que vc digitar: '
+    'Vou dobrar o número que vc digitar!: '
 )
 
 try:
