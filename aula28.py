@@ -2,7 +2,7 @@
 Flag (Bandeiras) - Marcar um local
 None = Não valor
 is e is not = é ou não é (tipo, valor, identidade)
-id = Identidade
+id = Identidades
 """
 condicao = False
 passou_no_if = None
