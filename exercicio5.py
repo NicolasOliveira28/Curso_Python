@@ -1,4 +1,4 @@
-#Se nada for digitado em nome ou idade: 
+#Se nada for digitado em nome ou idade!: 
  #   exiba "Desculpe, você deixou campos vazios."
 #""
 nome = input('Digite o seu nome: ')
