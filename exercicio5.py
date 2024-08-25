@@ -1,5 +1,5 @@
 #Se nada for digitado em nome ou idade!: 
- #   exiba "Desculpe, você deixou os campos vazios."
+ #   exiba "Desculpe, você deixou os campos vazios!."
 #""
 nome = input('Digite o seu nome: ')
 idade = input('Digite sua idade: ')
