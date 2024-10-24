@@ -10,4 +10,4 @@ if entrada.isdigit():
 
     print(f'O número {entrada_int} é {par_impar_texto}')
 else:
-    print('Você não digitou um número inteiro!')
+    print('Você não digitou um número inteiro!!!')
