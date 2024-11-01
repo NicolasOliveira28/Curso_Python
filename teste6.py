@@ -7,7 +7,7 @@
 #if ' ' in nome:
  #   print(f'O nome {nome} tem espaços!.')
 #else:
-  #  print(f'O nome {nome} NÃO tem espaços.')
+  #  print(f'O nome {nome} NÃO tem espaços...')
 
 numero = 10
  
