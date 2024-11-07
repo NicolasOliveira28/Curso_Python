@@ -5,7 +5,7 @@
 #nomes = 'Maria Carmo!!!'
  
 #if ' ' in nome:
- #   print(f'O nome {nome} tem espaços!.')
+ #   print(f'Os nome {nome} tem espaços!.')
 #else:
   #  print(f'Os nome {nome} NÃO tem espaços...')
 
