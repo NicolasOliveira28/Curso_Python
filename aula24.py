@@ -1,5 +1,5 @@
 """
-Fatiamento de strings
+Fatiamento das strings
  012345678
  Olá mundo
 -987654321
