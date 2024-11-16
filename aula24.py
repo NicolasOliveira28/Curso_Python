@@ -1,7 +1,7 @@
 """
 Fatiamento das strings
  012345678
- Olá mundo
+ Olá mundo!
 -987654321
 Fatiamento [i:f:p] [::]
 Obs.: a função "len" retorna a qtd 
